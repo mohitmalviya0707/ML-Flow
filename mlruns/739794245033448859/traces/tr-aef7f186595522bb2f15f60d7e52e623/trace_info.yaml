@@ -1,0 +1,14 @@
+execution_duration_ms: 1083
+request_preview: '{"query": "I can''t log into my account. It says my password is
+  wrong but I''m sure it''s correct.", "template_variables": {"company_name": "TechCorp",
+  "context": "User has been a customer for 2 years with no previous issues", "query":
+  "I can''t log into my account. Password seems wrong."}}'
+request_time: '2026-05-12T15:34:56.959Z'
+response_preview: '{"response": "Try resetting your password using the forgot password
+  link. If that doesn''t work, contact support."}'
+state: OK
+trace_id: tr-aef7f186595522bb2f15f60d7e52e623
+trace_location:
+  mlflow_experiment:
+    experiment_id: '739794245033448859'
+  type: MLFLOW_EXPERIMENT

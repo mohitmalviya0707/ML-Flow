@@ -1,0 +1,14 @@
+assessment_id: a-abf2c74f03c84742b3056b39b624cb6d
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.731Z'
+expectation:
+  value: I apologize for the duplicate charge. Refund of $29.99 initiated, arriving
+    in 2-3 business days, plus $10 credit for the inconvenience.
+last_update_time: '2026-05-18T10:25:57.731Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-113acadd685e837796da1d330f3d4b28
+valid: true

@@ -1,0 +1,15 @@
+assessment_id: a-fce306fa2e2e4fdc8b7ad3c57b987898
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.735Z'
+expectation:
+  value: MLflow Tracing provides observability for LLM applications, capturing prompts,
+    model calls, and tool invocations as hierarchical spans with inputs, outputs,
+    and latency information.
+last_update_time: '2026-05-18T10:25:57.735Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-88a7e03e5629b73ff44469f06253d01f
+valid: true

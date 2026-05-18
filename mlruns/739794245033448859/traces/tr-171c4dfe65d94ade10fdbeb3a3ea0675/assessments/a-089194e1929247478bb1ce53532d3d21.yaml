@@ -1,0 +1,14 @@
+assessment_id: a-089194e1929247478bb1ce53532d3d21
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.727Z'
+expectation:
+  value: 'Critical: No negative number handling. Major: Recursive approach risks stack
+    overflow for large n. Minor: Add type hints and docstring.'
+last_update_time: '2026-05-18T10:25:57.727Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-171c4dfe65d94ade10fdbeb3a3ea0675
+valid: true

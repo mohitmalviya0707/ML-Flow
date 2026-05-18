@@ -1,0 +1,14 @@
+assessment_id: a-73b009637e8d4c18bc26b9ce36b41d04
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.733Z'
+expectation:
+  value: 'Q3 2024: Revenue $2.3B (+15%), Net Income $450M (+23%), EPS $1.82. Cloud
+    growth and cost savings drove results. FY guidance raised to $9.1B.'
+last_update_time: '2026-05-18T10:25:57.733Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-8475b1047d3df5c42d250341bc6209d4
+valid: true

@@ -1,0 +1,14 @@
+assessment_id: a-e59062ab359b4e11af58d227cd784d41
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.734Z'
+expectation:
+  value: Use mlflow.evaluate() with your model and scorers (e.g., relevance, faithfulness).
+    Results include per-row scores and aggregate metrics, logged to MLflow.
+last_update_time: '2026-05-18T10:25:57.734Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-c36c3605cdcb2d4ce8d9f2addd5a86c1
+valid: true

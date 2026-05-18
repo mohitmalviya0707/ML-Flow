@@ -1,0 +1,13 @@
+execution_duration_ms: 1304
+request_preview: '{"query": "What''s the weather in San Francisco and should I bring
+  an umbrella today?"}'
+request_time: '2026-05-15T18:29:57.062Z'
+response_preview: '{"response": "It''s currently 62F and partly cloudy in San Francisco
+  with only a 15% chance of rain. You probably don''t need an umbrella today, but
+  a light jacket might be nice for the evening fog!"}'
+state: OK
+trace_id: tr-b8c185f307dcf477794fb325383e6447
+trace_location:
+  mlflow_experiment:
+    experiment_id: '739794245033448859'
+  type: MLFLOW_EXPERIMENT

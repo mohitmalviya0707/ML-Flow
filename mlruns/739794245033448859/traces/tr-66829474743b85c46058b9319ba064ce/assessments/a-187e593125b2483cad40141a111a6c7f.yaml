@@ -1,0 +1,14 @@
+assessment_id: a-187e593125b2483cad40141a111a6c7f
+assessment_name: expected_response
+create_time: '2026-05-18T10:25:57.740Z'
+expectation:
+  value: Register with mlflow.register_model(), then serve with `mlflow models serve
+    -m models:/name/version`. Test with curl POST to /invocations.
+last_update_time: '2026-05-18T10:25:57.740Z'
+metadata:
+  demo: 'true'
+source:
+  source_id: demo_annotator
+  source_type: HUMAN
+trace_id: tr-66829474743b85c46058b9319ba064ce
+valid: true

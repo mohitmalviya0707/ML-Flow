@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/6f4e404a0acf4f40a8b0e0c04be62242/artifacts
+end_time: 1779272410327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4e404a0acf4f40a8b0e0c04be62242
+run_name: likeable-ape-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410318
+status: 3
+tags: []
+user_id: mohitmalviya

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/a7e015af0f3f4644a5fd63cdb748eaa9/artifacts
+end_time: 1779272410316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7e015af0f3f4644a5fd63cdb748eaa9
+run_name: defiant-panda-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410307
+status: 3
+tags: []
+user_id: mohitmalviya

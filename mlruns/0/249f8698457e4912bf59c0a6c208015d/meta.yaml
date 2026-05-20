@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/249f8698457e4912bf59c0a6c208015d/artifacts
+end_time: 1779272410305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 249f8698457e4912bf59c0a6c208015d
+run_name: abrasive-penguin-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410296
+status: 3
+tags: []
+user_id: mohitmalviya

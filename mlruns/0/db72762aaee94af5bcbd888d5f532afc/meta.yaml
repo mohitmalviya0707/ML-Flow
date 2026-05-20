@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/db72762aaee94af5bcbd888d5f532afc/artifacts
+end_time: 1779272410359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db72762aaee94af5bcbd888d5f532afc
+run_name: nosy-fawn-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410350
+status: 3
+tags: []
+user_id: mohitmalviya

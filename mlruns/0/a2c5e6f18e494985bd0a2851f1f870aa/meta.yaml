@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/a2c5e6f18e494985bd0a2851f1f870aa/artifacts
+end_time: 1779272410390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c5e6f18e494985bd0a2851f1f870aa
+run_name: capable-ape-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410382
+status: 3
+tags: []
+user_id: mohitmalviya

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/33a1ddd602b3436580dfe995fb1eab43/artifacts
+end_time: 1779272410284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33a1ddd602b3436580dfe995fb1eab43
+run_name: kindly-wren-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410276
+status: 3
+tags: []
+user_id: mohitmalviya

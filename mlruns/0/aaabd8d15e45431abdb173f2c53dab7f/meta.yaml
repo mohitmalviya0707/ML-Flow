@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/aaabd8d15e45431abdb173f2c53dab7f/artifacts
+end_time: 1779272410370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaabd8d15e45431abdb173f2c53dab7f
+run_name: mercurial-worm-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410361
+status: 3
+tags: []
+user_id: mohitmalviya

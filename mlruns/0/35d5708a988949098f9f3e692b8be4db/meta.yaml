@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/35d5708a988949098f9f3e692b8be4db/artifacts
+end_time: 1779272410337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35d5708a988949098f9f3e692b8be4db
+run_name: invincible-deer-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410329
+status: 3
+tags: []
+user_id: mohitmalviya

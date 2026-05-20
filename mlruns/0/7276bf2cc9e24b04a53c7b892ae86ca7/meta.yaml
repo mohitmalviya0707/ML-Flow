@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mohitmalviya/Desktop/ML-Flow/mlruns/0/7276bf2cc9e24b04a53c7b892ae86ca7/artifacts
+end_time: 1779272410380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7276bf2cc9e24b04a53c7b892ae86ca7
+run_name: traveling-bass-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779272410372
+status: 3
+tags: []
+user_id: mohitmalviya
